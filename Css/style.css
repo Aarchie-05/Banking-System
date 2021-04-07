@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 100vh;
+    background-color: #e4bad4;
+}
+.navigation{
+    background-color: #e4bad4;
+}
+.navigation a:hover{
+    text-decoration: none;
+}
+.logo{
+    position: relative;
+    width: 70px;
+    height: 80px;
+    margin-left: 13px;
+}
+.logo-text{
+    font-size: 20px;
+    margin-top: -0.3rem;
+}
+.main .nav-item{
+    padding: 0.5rem;
+    font-weight: 500;
+}
+.First-sec{
+    padding-top: 10%;
+    padding-left: 7%;
+    color: white;
+}
+.First-sec h1{
+    font-size: 2.8rem;
+}
+.images-slider{
+    width: 70%;
+    padding-bottom: 4%;
+    margin-top: 6%;
+}
+.features{
+    background-color: white;
+    color: #ff5e78;
+}
+.description{
+    background-color: #e4bad4;
+    color: white;
+}
+.description h2{
+    font-size: 40px;
+}
+.description h1{
+    font-size: 60px;
+}

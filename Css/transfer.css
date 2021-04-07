@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 900;
+}
+.main{
+    /* width: 100vw; */
+    background-color: white;
+    box-shadow: 0 0.5rem 1rem -0.5rem rgba(0, 0, 0, 0.4);
+}
+.navigation a:hover{
+    text-decoration: none;
+}
+.main .nav-item{
+    padding: 0.5rem;
+    font-weight: 500;
+}
+.heading{
+    font-weight: 900;
+    padding: 4rem;
+    padding-left: 35%;
+}
+.heading hr{
+    width: 180%;
+    margin-left: -6rem;
+}
